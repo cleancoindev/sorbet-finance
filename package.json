@@ -29,7 +29,7 @@
     "bnc-notify": "^1.6.0",
     "copy-to-clipboard": "^3.2.0",
     "escape-string-regexp": "^2.0.0",
-    "ethers": "5.1.0",
+    "ethers": "5.6.4",
     "i18next": "^15.0.9",
     "i18next-browser-languagedetector": "^3.0.1",
     "i18next-xhr-backend": "^2.0.1",
